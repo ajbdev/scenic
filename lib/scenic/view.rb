@@ -1,3 +1,5 @@
+require "scenic/shim/string"
+
 module Scenic
   # The in-memory representation of a view definition.
   #
